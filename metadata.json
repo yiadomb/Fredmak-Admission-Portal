@@ -1,0 +1,6 @@
+{
+  "name": "HostelPortal",
+  "description": "A minimal registration portal for hostel bookings, using Google Sheets for data storage and Supabase for media assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
